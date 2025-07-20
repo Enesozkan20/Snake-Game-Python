@@ -6,11 +6,10 @@
 
 A classic Snake game implementation using Python and Pygame library.
 
-# 📸 Screenshot
+# 📺 Preview
+![SnakeGame2025-07-2018-47-50-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/cfdc87b4-ad3b-415c-877e-0245afdafe58)
 
 ## ✨ Features
-<img width="1380" height="840" alt="Python 3 13 19 07 2025 15_45_46" src="https://github.com/user-attachments/assets/41c65172-10a5-4c21-911e-cbb5a1a9ecdf" />
-
 - **Game Mechanics**:
   - Snake movement with arrow keys
   - Food generation
